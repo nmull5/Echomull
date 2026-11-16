@@ -454,3 +454,8 @@ thead th {
     display: none;
   }
 }
+
+/* The App Store button under the hero badges. */
+.store-link {
+  margin-top: 1.5rem;
+}
